@@ -1,2 +1,1 @@
-# rush3
-need to be done
+# Rush 3 - MyGKrellm
